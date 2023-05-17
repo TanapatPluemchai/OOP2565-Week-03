@@ -25,10 +25,19 @@
 
 ![](Pictures/Pict-29-lab-pict-04.png)
 
+![image](https://github.com/TanapatPluemchai/OOP2565-Week-03/assets/115067806/0dab236c-2b5c-49e9-af9e-810e6de1ff84)
+
+
 2.6.5 จงเขียน code ตามตัวอย่างในด้านขวาให้สมบูรณ์เพื่อให้แสดงภาพตามไดอะแกรมในด้านซ้าย
 
 ![](Pictures/Pict-30-lab-pict-05.png)
 
+![image](https://github.com/TanapatPluemchai/OOP2565-Week-03/assets/115067806/28958d0e-fb01-4213-877b-20a41cd87b10)
+
+
 2.6.6 จงเขียน code ตามตัวอย่างในด้านขวาให้สมบูรณ์เพื่อให้แสดงภาพตามไดอะแกรมในด้านซ้าย
 
 ![](Pictures/Pict-31-lab-pict-06.png)
+
+![image](https://github.com/TanapatPluemchai/OOP2565-Week-03/assets/115067806/7e756110-6457-4c0a-ad75-d9452642a98f)
+
