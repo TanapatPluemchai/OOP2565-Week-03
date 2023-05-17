@@ -66,6 +66,9 @@ class ClassName
 @enduml
 ```
 
+![image](https://github.com/TanapatPluemchai/OOP2565-Week-03/assets/115067806/d95d0088-d9b6-4f6f-bacb-b7c0d230eff0)
+
+
 ภายใน class body จะประกอบด้วย attributes และ Methods โดย plantUML จะจำแนกความแตกต่างระหว่าง attributes และ methods  จากเครื่องหมายวงเล็บหลังชื่อ ถ้ามีวงเล็บจะถูกจัดให้เป็น methods โดยอัตโนมัติ และไม่สนใจตำแหน่งที่ปรากฏใน code ของ plantUML
 
 ![](./Pictures/Pict-19-Class-Simple.png)
